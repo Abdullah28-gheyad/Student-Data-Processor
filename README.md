@@ -6,13 +6,13 @@ This SSIS project retrieves student names with grades above or equal to 70 and s
 🏥 SSIS Packedge Overview 📊
 ![SSIS PACKEDGE Overview](https://github.com/Abdullah28-gheyad/Student-Data-Processor/blob/master/grade_load.png)
 
-Table of Contents
-Project Description
-Prerequisites
-Getting Started
-Usage
-Contributing
-License
+**Table of Contents**
+-  Project Description
+-  Prerequisites
+-  Getting Started
+-  Usage
+-  Contributing
+-  License
 
 ![SSIS PACKEDGE Overview](https://github.com/Abdullah28-gheyad/Student-Data-Processor/blob/master/grade_success.png)
 
