@@ -1,6 +1,11 @@
 # Student-Data-Processor
 This SSIS project retrieves student names with grades above or equal to 70 and stores them in a CSV file. It also stores the rest of the data in an ITI DB database after removing duplicate values.
 
+
+
+🏥 SSIS Packedge Overview 📊
+![SSIS PACKEDGE Overview](https://github.com/Abdullah28-gheyad/Student-Data-Processor/blob/master/grade_load.png)
+
 Table of Contents
 Project Description
 Prerequisites
@@ -8,6 +13,9 @@ Getting Started
 Usage
 Contributing
 License
+
+![SSIS PACKEDGE Overview](https://github.com/Abdullah28-gheyad/Student-Data-Processor/blob/master/grade_success.png)
+
 Project Description
 This SSIS project processes student data, specifically retrieving names of students with grades equal to or above 70 and storing this information in a CSV file. Additionally, it removes any duplicate entries and stores the remaining data in an ITI DB database.
 
